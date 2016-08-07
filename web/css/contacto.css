@@ -1,0 +1,97 @@
+body {
+	background-image: url("/assets/background.jpg");
+	border:           0;
+	margin:           0;
+}
+
+#main-container {
+	width: 100%;
+}
+
+#central-container {
+	background-color:   #FFFFFF;
+	box-shadow:         0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-moz-box-shadow:    0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	margin:             0 auto;
+	min-height:         100%;
+	padding-bottom:     10px;
+	text-align:         center;
+	width:              960px;
+}
+
+.logo-container {
+	margin-bottom: 10px;
+}
+
+#contact-form-container {
+	
+}
+
+#contact-form {
+	
+}
+
+#contact-form label {
+	font-family: "Josefin Slab", serif;
+	font-size:   18px;
+}
+
+#contact-form input {
+	font-family: "Josefin Slab", serif;
+	font-size:   18px;
+}
+
+#contact-form textarea {
+	font-family: "Josefin Slab", serif;
+	font-size:   18px;
+	width:       300px;
+	height:      150px;
+}
+
+#contact-form .g-recaptcha {
+	margin: 0 auto;
+	width:  304px;
+}
+
+#contact-form #contact-form-buttons {
+	
+}
+
+#contact-form #contact-form-buttons a {
+	display: inline-block;
+	width:   186px;
+	height:  34px;
+}
+
+.ruler {
+	background-color: #98672D;
+	height:           1px;
+	margin:           0 auto;
+	margin-bottom:    20px;
+	width:            864px;
+}
+
+.spacer {
+	margin-bottom: 20px;
+	width:         100%;
+}
+
+.social-network-link {
+	border:        none;
+	display:       inline-table;
+	height:        36px;
+	margin-bottom: 20px;
+	margin-left:   20px;
+	margin-right:  20px;
+	width:         36px;
+}
+
+.social-network-link img {
+	width:  36px;
+	height: 36px;
+}
+
+.copyright {
+	font-family: "Josefin Slab", serif;
+}

@@ -1,0 +1,83 @@
+body {
+	background-image: url("/assets/background.jpg");
+	border:           0;
+	margin:           0;
+}
+
+#main-container {
+	width: 100%;
+}
+
+#central-container {
+	background-color:   #FFFFFF;
+	box-shadow:         0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-moz-box-shadow:    0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	display:            table;
+	margin:             0 auto;
+	min-height:         100%;
+	padding-bottom:     10px;
+	text-align:         center;
+	width:              960px;
+}
+
+.logo-container {
+	margin-bottom: 10px;
+}
+
+.title-container {
+	text-align: center;
+}
+
+.huge-title {
+	color:       #666666;
+	font-family: "Josefin Slab", serif;
+	font-size:   60px;
+}
+
+.small-text {
+	font-family: "Josefin Slab", serif;
+	font-size:   20px;
+}
+
+.simple-button {
+	width:   186px;
+	height:  34px;
+	display: inline-block;
+}
+
+.banner-container {
+	margin-bottom: 25px;
+	margin-top:    25px;
+}
+
+.spacer {
+	margin-bottom: 20px;
+	width:         100%;
+}
+
+.social-network-link {
+	border:        none;
+	display:       inline-table;
+	height:        36px;
+	margin-bottom: 20px;
+	margin-left:   20px;
+	margin-right:  20px;
+	width:         36px;
+}
+
+.social-network-link img {
+	width:  36px;
+	height: 36px;
+}
+
+.ruler {
+	background-color: #98672D;
+	height:           1px;
+	margin:           0 auto;
+	margin-bottom:    20px;
+	width:            864px;
+}
+.copyright {
+	font-family: "Josefin Slab", serif;
+}

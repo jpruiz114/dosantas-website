@@ -1,0 +1,99 @@
+body {
+	background-image: url("/assets/background.jpg");
+	border:           0;
+	margin:           0;
+}
+
+#main-container {
+	width: 100%;
+}
+
+#central-container {
+	background-color:   #FFFFFF;
+	box-shadow:         0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-moz-box-shadow:    0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	margin:             0 auto;
+	min-height:         100%;
+	padding-bottom:     10px;
+	text-align:         center;
+	width:              960px;
+}
+
+.logo-container {
+	margin-bottom: 10px;
+}
+
+.banner-container {
+	margin-bottom: 30px;
+}
+
+#collections-links {
+	display:        table;
+	margin:         0 auto;
+	padding-bottom: 30px;
+	width:          864px;
+}
+
+.inner-collection-col {
+	display:    inline-block;
+	text-align: center;
+	width:      372px;
+}
+
+.inner-collection-col span {
+	font-family: "Josefin Slab";
+	font-size:   30px;
+	font-weight: 400;
+}
+
+#collections-links-l {
+	float:      left;
+	text-align: left;
+	width:      50%;
+}
+
+#collections-links-r {
+	float:      left;
+	text-align: right;
+	width:      50%;
+}
+
+#collections-links a {
+	border:  none;
+	display: inline-table;
+	height:  68px;
+	width:   372px;
+}
+
+.ruler {
+	background-color: #98672D;
+	height:           1px;
+	margin:           0 auto;
+	margin-bottom:    20px;
+	width:            864px;
+}
+
+.spacer {
+	margin-bottom: 20px;
+	width:         100%;
+}
+
+.social-network-link {
+	border:        none;
+	display:       inline-table;
+	height:        36px;
+	margin-bottom: 20px;
+	margin-left:   20px;
+	margin-right:  20px;
+	width:         36px;
+}
+
+.social-network-link img {
+	width:  36px;
+	height: 36px;
+}
+
+.copyright {
+	font-family: "Josefin Slab", serif;
+}
