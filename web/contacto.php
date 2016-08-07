@@ -68,7 +68,7 @@
 		
 		<link rel="image_src" href="/assets/dosantas-everywear-clothing-logo.png" />
 		
-		<link href="http://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet" type="text/css">
 		
 		<link href="/css/contacto.css" media="screen" rel="stylesheet" type="text/css" />
 		
@@ -76,7 +76,7 @@
 		
 		<?php include(dirname(__FILE__) . "/php/includes/browser_queries.php"); ?>
 		
-		<script src="https://www.google.com/recaptcha/api.js"></script>
+		<script src="//www.google.com/recaptcha/api.js"></script>
 		
 		<link rel="stylesheet" href="/css/toastr.min.css">
 		
