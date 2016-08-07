@@ -5,7 +5,7 @@
 		
 		<title>Dosantas - Everywear Clothing - Error 403</title>
 		
-		<link rel="image_src" href="http://www.dosantas.com/assets/dosantas-everywear-clothing-logo.png" />
+		<link rel="image_src" href="/assets/dosantas-everywear-clothing-logo.png" />
 		
 		<link href="http://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet" type="text/css">
 		
