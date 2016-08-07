@@ -12,7 +12,7 @@
 		
 		<link rel="image_src" href="/assets/dosantas-everywear-clothing-logo.png" />
 		
-		<link href="http://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet" type="text/css">
 		
 		<link href="/css/index.css" media="screen" rel="stylesheet" type="text/css" />
 		
