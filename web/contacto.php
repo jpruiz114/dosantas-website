@@ -171,7 +171,7 @@
 						
 						<br><br>
 						
-						<div class="g-recaptcha" data-sitekey="6LdlpwMTAAAAAGLnULZHUGwScx6C9Xtph6udsrC9"></div>
+						<div class="g-recaptcha" data-sitekey="6Lcz-CYTAAAAAJPBUHWvQ8tAyafVSGqzLJ_9w5Cl"></div>
 						
 						<div id="contact-form-buttons" style="margin-bottom: 30px; margin-top: 30px;">
 							<a href="/" rel="follow" title="Regresar">

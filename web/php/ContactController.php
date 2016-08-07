@@ -51,7 +51,7 @@
 		$allGood = 0;
 	}
 	else {
-		$reCaptchaSecret = "6LdlpwMTAAAAAO9kOB-A_XnEHN6ChpttQuDXQB_P";
+		$reCaptchaSecret = "6Lcz-CYTAAAAAGrsUWN3vZTuyJNFVGuR003S5XwU";
 		
 		$path = "https://www.google.com/recaptcha/api/siteverify?secret=" . $reCaptchaSecret . "&response=" . $gReCaptchaResponse;
 		
