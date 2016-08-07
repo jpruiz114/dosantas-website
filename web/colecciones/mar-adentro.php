@@ -94,7 +94,7 @@
 				"pc_row_4_col_1", "pc_row_4_col_1", "pc_row_4_col_1", "pc_row_4_col_1",
 			];
 			
-			var baseURL = "http://dosantas.com/assets/coleccion-mar-adentro/";
+			var baseURL = "/assets/coleccion-mar-adentro/";
 			
 			var collection = "mar-adentro";
 			

@@ -137,7 +137,7 @@
 				"pc_row_9_col_1", "pc_row_9_col_2", "pc_row_9_col_3", "pc_row_9_col_4"
 			];
 			
-			var baseURL = "http://dosantas.com/assets/coleccion-fractales/";
+			var baseURL = "/assets/coleccion-fractales/";
 			
 			var collection = "fractales";
 			

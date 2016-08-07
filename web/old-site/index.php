@@ -87,7 +87,7 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 
     <header>
-      <div class="fb-like" data-href="http://dosantas.com/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+      <div class="fb-like" data-href="/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
     </header>
 
     <center>

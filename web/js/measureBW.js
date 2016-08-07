@@ -4,7 +4,7 @@ function measureBW(cnt, cb) {
     var i = 0;
     (function rec() {
         var xmlHttp = new XMLHttpRequest();
-        xmlHttp.open("GET", "http://dosantas.com/assets/logo-small.png", true);
+        xmlHttp.open("GET", "/assets/logo-small.png", true);
 
         xmlHttp.onreadystatechange = function () {
             if (xmlHttp.readyState == 4) {

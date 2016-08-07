@@ -84,5 +84,5 @@
 	
 	/* ***** */
 	
-	header("Location: http://dosantas.com/contacto.php");
+	header("Location: /contacto.php");
 ?>
