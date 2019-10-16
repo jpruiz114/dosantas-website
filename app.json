@@ -1,6 +1,6 @@
 {
-  "name": "PHP Getting Started",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
-  "addons": []
+  "name": "PHP website - Dosantas",
+  "description": "Website for Dosantas",
+  "repository": "https://github.com/jpruiz114/dosantas-website",
+  "stack": "heroku-18"
 }
